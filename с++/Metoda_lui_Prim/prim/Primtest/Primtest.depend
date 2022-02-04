@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639070286 source:c:\users\user\desktop\structuri discrete\ñ++\metoda_lui_prim\prim\primtest\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	<conio.h>
+

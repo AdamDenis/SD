@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1639077889 source:c:\users\user\desktop\structuri discrete\ñ++\metoda_lui_prim\prim\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+
+1638896803 source:c:\users\user\desktop\structuri discrete\ñ++\permutari\main.cpp
+	<iostream>
+	<cmath>
+
+1639069935 source:c:\users\user\desktop\structuri discrete\ñ++\metoda_lui_prim\prim\maint.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string.h>
+	<conio.h>
+
